@@ -1,0 +1,8 @@
+{
+  "names": {
+    "thaingo": "npub1lmhzlygskj5avxscpdjnez7jakx92r9pyrjet6zm2mq9wsrqwg5qzt5lxw"
+  },
+  "relays": {
+    "npub1lmhzlygskj5avxscpdjnez7jakx92r9pyrjet6zm2mq9wsrqwg5qzt5lxw": [ "wss://relay.damus.io/", "wss://nostr-relay.wlvs.space/" ]
+  }
+}
